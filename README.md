@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [1000 Days of Code](https://github.com/CaioScatolino/1000DaysOfCode/blob/main/README.md)
 
-- 🌱 I’m currently learning **SQL, PHP and Laravel**
+- 🌱 I’m currently learning **SQL, PHP and Laravel, JS and JQuery**
 
 - 📫 How to reach me **caio.scatolino@outlook.com**
 
