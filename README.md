@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=caioscatolino&label=Profile%20views&color=0e75b6&style=flat" alt="caioscatolino" /> </p>
 
-- 🔭 I’m currently working on [1000 Days of Code](https://github.com/CaioScatolino/1000DaysOfCode/blob/main/README.md)
+- 🔭 I’m currently working on [Coffee Delivery](https://coffee-delivery-v2.vercel.app/)
 
 - 🌱 I’m currently learning **SQL, PHP and Laravel, JS and JQuery**
 
