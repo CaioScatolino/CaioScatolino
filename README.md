@@ -3,7 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=caioscatolino&label=Profile%20views&color=0e75b6&style=flat" alt="caioscatolino" /> </p>
 
-- 🔭 I’m currently working on [Coffee Delivery](https://coffee-delivery-v2.vercel.app/)
+- 🔭 I’m currently working on [DT Money 💵](https://dt-money-iota-liard.vercel.app/)
+
+- 🚀 Finished Projects: 
+    [Coffee Delivery ☕](https://coffee-delivery-v2.vercel.app/) (ReactJS),
+    [ToDo List ✔](https://to-do-list-react-js-lime.vercel.app/) (ReactJS),
+    [Pomodoro Timer ⏱](https://ignite-timer-ten-nu.vercel.app/) (ReactJS),  
+   
 
 - 🌱 I’m currently learning **SQL, PHP and Laravel, JS and JQuery**
 
