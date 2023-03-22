@@ -3,6 +3,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=caioscatolino&label=Profile%20views&color=0e75b6&style=flat" alt="caioscatolino" /> </p>
 
+- 📫 How to reach me **caio.scatolino@outlook.com**
+
+- 🌱 I’m currently learning **SQL, PHP and Laravel, JS, ReactJS and JQuery**
+
 - 🔭 I’m currently working on [DT Money 💵](https://dt-money-iota-liard.vercel.app/)
 
 - ## 🚀 Finished Projects:
@@ -10,16 +14,7 @@
 |------|-----------------|--------------------|---------------------|
 |Project 01|Mar. 04, 2023| ToDo List ✔ (ReactJS) | [See Deploy](https://to-do-list-react-js-lime.vercel.app/)|
 |Project 02|Mar. 13, 2023| Coffee Delivery ☕ (ReactJS) | [See Deploy](https://coffee-delivery-v2.vercel.app/)|
-|Project 03|Mar. 17, 2023| Pomodoro Timer ⏱ (ReactJS) | [See Repo](https://ignite-timer-ten-nu.vercel.app/)|
-
-    [Coffee Delivery ☕](https://coffee-delivery-v2.vercel.app/) (ReactJS),
-    [ToDo List ✔](https://to-do-list-react-js-lime.vercel.app/) (ReactJS),
-    [Pomodoro Timer ⏱](https://ignite-timer-ten-nu.vercel.app/) (ReactJS),  
-   
-
-- 🌱 I’m currently learning **SQL, PHP and Laravel, JS, ReactJS and JQuery**
-
-- 📫 How to reach me **caio.scatolino@outlook.com**
+|Project 03|Mar. 17, 2023| Pomodoro Timer ⏱ (ReactJS) | [See Deploy](https://ignite-timer-ten-nu.vercel.app/)|
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
