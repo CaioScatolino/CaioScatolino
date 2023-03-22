@@ -6,6 +6,13 @@
 - 🔭 I’m currently working on [DT Money 💵](https://dt-money-iota-liard.vercel.app/)
 
 - 🚀 Finished Projects: 
+- ## Timeline
+|**Day:pushpin:**|**Date &nbsp;:calendar:**|**Lessons/Tasks Done :alarm_clock:**| **Reference Links :link:**|
+|------|-----------------|--------------------|---------------------|
+|Day 1|Oct. 24, 2022| Learning Git/Github | [See Repo](https://github.com/CaioScatolino/moduloGit)|
+|Day 2|Oct. 25, 2022| Project Manuais Manutenção (PHP, Bootstrap, SQL) | [See Repo](https://github.com/CaioScatolino/manuaisManutencao)|
+|Day 3|Oct. 26, 2022| Project Php CRUD (PHP, Bootstrap, SQL) | [See Repo](https://github.com/CaioScatolino/crudPHP)|
+
     [Coffee Delivery ☕](https://coffee-delivery-v2.vercel.app/) (ReactJS),
     [ToDo List ✔](https://to-do-list-react-js-lime.vercel.app/) (ReactJS),
     [Pomodoro Timer ⏱](https://ignite-timer-ten-nu.vercel.app/) (ReactJS),  
