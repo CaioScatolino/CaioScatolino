@@ -5,8 +5,7 @@
 
 - 🔭 I’m currently working on [DT Money 💵](https://dt-money-iota-liard.vercel.app/)
 
-- 🚀 Finished Projects: 
-- ## Timeline
+- ## 🚀 Finished Projects:
 |**Day:pushpin:**|**Date &nbsp;:calendar:**|**Lessons/Tasks Done :alarm_clock:**| **Reference Links :link:**|
 |------|-----------------|--------------------|---------------------|
 |Project 01|Mar. 04, 2023| ToDo List ✔ (ReactJS) | [See Deploy](https://to-do-list-react-js-lime.vercel.app/)|
